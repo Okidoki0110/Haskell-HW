@@ -1,3 +1,5 @@
+![](hask.png)
+
 Pentru rularea testelor: 
       stack exec ghci BloxorzTest.hs 
  
